@@ -51,7 +51,7 @@ fingerprint sensor, provided help in network maintenance (cameras, printers, PCs
 
 ## CERTIFICATIONS
 ### Certified as Red Hat System Administrator (RHCSA)
-[validation_link](https://rhtapps.redhat.com/verify?certId=220-129-894) ![redhat](/assets/img/bike_study.jpeg)
+[validation_link](https://rhtapps.redhat.com/verify?certId=220-129-894) ![redhat](/assets/img/redhat.png)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
