@@ -1,6 +1,6 @@
-#System Administrator
+# System Administrator
 
-###CAREER OBJECTIVE 
+### CAREER OBJECTIVE 
  A skilled System Administration Engineer with a bachelor degree in information technology and an ITI
 system administration track trainee, certified as a Red-Hat System Administrator (RHCSA). Aiming for an 
 opportunity where I can develop and gain more experience in the field of systems administration and 
